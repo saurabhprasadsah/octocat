@@ -24,6 +24,4 @@ https://readthedocs.org/projects/jupyter-notebook/downloads/pdf/latest/
 • Go (https://github.com/takluyver/igo)
  
 
-**BE happy and Stay at home**
-
 # Happy code😊😊😊 
